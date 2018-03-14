@@ -24,7 +24,7 @@
     "express": "^4.14.0",
     "metrics-tracker-client": "^0.1.9",
     "vcap_services": "^0.2.0",
-    "watson-developer-cloud": "^2.31.1"
+    "watson-developer-cloud": "^3.1.1"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.4",
